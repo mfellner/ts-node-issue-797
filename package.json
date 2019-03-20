@@ -1,0 +1,11 @@
+{
+  "name": "ts-node-issue-797",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "ts-node": "8.0.2",
+    "typescript": "3.3.4000"
+  }
+}
