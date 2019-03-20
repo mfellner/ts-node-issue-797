@@ -1,0 +1,11 @@
+{
+  "name": "@mfellner/foo",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node --files -P tsconfig.json src/index.ts"
+  },
+  "dependencies": {
+    "@mfellner/bar": "^1.0.0"
+  }
+}
